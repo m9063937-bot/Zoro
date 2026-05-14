@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Zoro - AI Voice Assistant",
+  "description": "A sassy, witty, and intelligent Indian male AI voice assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
